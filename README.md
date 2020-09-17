@@ -11,7 +11,7 @@
 > 
 > :gem: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/01%EF%BC%9A%E5%9B%BD%E5%86%8538%E5%9F%8E%E5%B1%85%E4%BD%8F%E8%87%AA%E7%94%B1%E6%8C%87%E6%95%B0%E5%8F%AF%E8%A7%86%E5%8C%96)
 
-<center><img src="https://raw.githubusercontent.com/CNFeffery/FefferyViz/master/assets/01%EF%BC%9A%E5%9B%BD%E5%86%8538%E5%9F%8E%E5%B1%85%E4%BD%8F%E8%87%AA%E7%94%B1%E6%8C%87%E6%95%B0%E5%8F%AF%E8%A7%86%E5%8C%96/01%EF%BC%9A%E5%9B%BD%E5%86%8538%E5%9F%8E%E5%B1%85%E4%BD%8F%E8%87%AA%E7%94%B1%E6%8C%87%E6%95%B0%E5%8F%AF%E8%A7%86%E5%8C%96.png" style="zoom:100%;" /></center><center><font size=2></font></center>
+<center><img src="https://raw.githubusercontent.com/CNFeffery/FefferyViz/master/assets/01%EF%BC%9A%E5%9B%BD%E5%86%8538%E5%9F%8E%E5%B1%85%E4%BD%8F%E8%87%AA%E7%94%B1%E6%8C%87%E6%95%B0%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%9B%BD%E5%86%8538%E5%9F%8E%E5%B1%85%E4%BD%8F%E8%87%AA%E7%94%B1%E6%8C%87%E6%95%B0%E5%8F%AF%E8%A7%86%E5%8C%96.png" style="zoom:100%;" /></center><center><font size=2></font></center>
 
 ---
 
