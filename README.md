@@ -22,6 +22,6 @@
 > 
 > :crown: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/02%EF%BC%9A%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%E6%9D%A5%E6%BA%90%E5%8F%AF%E8%A7%86%E5%8C%96)
 
-<center><img src="https://raw.githubusercontent.com/CNFeffery/FefferyViz/master/assets/02%EF%BC%9A%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%E6%9D%A5%E6%BA%90%E5%8F%AF%E8%A7%86%E5%8C%96/%E6%B8%A9%E5%AE%A4%E6%B0%94%E4%BD%93%E6%8E%92%E6%94%BE%E6%9D%A5%E6%BA%90%E5%8F%AF%E8%A7%86%E5%8C%96.png" style="zoom:100%;" /></center><center><font size=2></font></center>
+<center><img src="https://img2020.cnblogs.com/blog/1344061/202009/1344061-20200914185842921-458086105.png" style="zoom:100%;" /></center><center><font size=2></font></center>
 
 ---
