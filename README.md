@@ -34,6 +34,6 @@
 > 
 > :crown: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/03%EF%BC%9AOD%E6%95%B0%E6%8D%AE%E7%9A%84%E7%89%B9%E6%AE%8A%E5%8F%AF%E8%A7%86%E5%8C%96%E6%96%B9%E5%BC%8F)
 
-<center><img src="https://img2020.cnblogs.com/blog/1344061/202010/1344061-20201018164931315-1982676032.png" style="zoom:100%;" /></center><center><font size=2></font></center>
+<center><img src="https://img2020.cnblogs.com/blog/1344061/202010/1344061-20201018173716493-1508417877.png" style="zoom:100%;" /></center><center><font size=2></font></center>
 
 ---
