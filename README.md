@@ -58,3 +58,17 @@
 </p>
 
 ---
+
+## :chart_with_upwards_trend: 05 疫情期间市值增长top25公司
+
+> 2020-11-29
+> 
+> :memo: [文章地址](https://www.cnblogs.com/feffery/p/14057272.html)
+> 
+> :hugs: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/05%EF%BC%9A%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E5%B8%82%E5%80%BC%E5%A2%9E%E9%95%BFtop25%E5%85%AC%E5%8F%B8)
+
+<p align="center">
+  <img width="600" src="https://img2020.cnblogs.com/blog/1344061/202011/1344061-20201129183046286-1089258422.png">
+</p>
+
+---
