@@ -96,7 +96,7 @@
 > :heart_eyes: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/06%EF%BC%9A%E5%B8%B8%E8%A7%81%E6%8A%BD%E8%B1%A1%E5%9C%B0%E5%9B%BE%E7%9A%84%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95)
 
 <p align="center">
-  <img width="600" src="https://img2020.cnblogs.com/blog/1344061/202101/1344061-20210103201501077-1391218185.png">
+  <img width="100%" src="https://img2020.cnblogs.com/blog/1344061/202101/1344061-20210103201501077-1391218185.png">
 </p>
 
 ---
