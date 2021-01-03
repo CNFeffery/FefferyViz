@@ -7,6 +7,7 @@
 - :taxi: [03 OD数据的特殊可视化方式](#3) `2020-10-18`
 - :deciduous_tree: [04 旧金山街道树木分布可视化](#4) `2020-11-22`
 - :chart_with_upwards_trend: [05 疫情期间市值增长top25公司](#5) `2020-11-29`
+- :earth_asia: [06 常见抽象地图的制作方法](#6) `2021-01-03`
 
 ---
 
@@ -84,3 +85,19 @@
 </p>
 
 ---
+
+<a name="6"></a>
+## :earth_asia: 06 常见抽象地图的制作方法
+
+> 2021-01-03
+> 
+> :memo: [文章地址](https://www.cnblogs.com/feffery/p/14226740.html)
+> 
+> :heart_eyes: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/06%EF%BC%9A%E5%B8%B8%E8%A7%81%E6%8A%BD%E8%B1%A1%E5%9C%B0%E5%9B%BE%E7%9A%84%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95)
+
+<p align="center">
+  <img width="600" src="https://img2020.cnblogs.com/blog/1344061/202101/1344061-20210103201501077-1391218185.png">
+</p>
+
+---
+
