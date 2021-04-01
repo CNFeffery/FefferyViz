@@ -128,7 +128,7 @@
 > :stars: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/08%EF%BC%9A%E5%93%AA%E4%B8%AA%E7%9C%81%E4%BB%BD%E7%9A%84%E5%AD%A6%E5%AD%90%E6%98%AF%E7%86%AC%E5%A4%9C%E5%86%A0%E5%86%9B%EF%BC%9F)
 
 <p align="center">
-  <img width="100%" src="https://img2020.cnblogs.com/blog/1344061/202104/1344061-20210401181703081-1653491633.png">
+  <img width="500" src="https://img2020.cnblogs.com/blog/1344061/202104/1344061-20210401181703081-1653491633.png">
 </p>
 
 ---
