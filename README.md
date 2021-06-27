@@ -10,6 +10,7 @@
 - :earth_asia: [06 常见抽象地图的制作方法](#6) `2021-01-03`
 - :ocean: [07 星球研究所大坝分布可视化](#7) `2021-01-27`
 - :crescent_moon: [08 哪个省份的学子是熬夜冠军？](#8) `2021-04-01`
+- :chart_with_upwards_trend: [09 近期基金涨幅排行可视化](#9) `2021-06-27`
 
 ---
 
@@ -121,7 +122,7 @@
 <a name="8"></a>
 ## :crescent_moon: 08 哪个省份的学子是熬夜冠军？
 
-> 2021-01-27
+> 2021-04-01
 > 
 > :memo: [文章地址](https://www.cnblogs.com/feffery/p/14599911.html)
 > 
@@ -133,3 +134,17 @@
 
 ---
 
+<a name="9"></a>
+## :chart_with_upwards_trend: 09 近期基金涨幅排行可视化
+
+> 2021-06-27
+> 
+> :memo: [文章地址](https://www.cnblogs.com/feffery/p/14934738.html)
+> 
+> :moneybag: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/09%EF%BC%9A%E8%BF%91%E6%9C%9F%E5%9F%BA%E9%87%91%E6%B6%A8%E5%B9%85%E6%8E%92%E8%A1%8C%E5%8F%AF%E8%A7%86%E5%8C%96)
+
+<p align="center">
+  <img width="500" src="https://img2020.cnblogs.com/blog/1344061/202106/1344061-20210627160232394-1219472407.png">
+</p>
+
+---
