@@ -144,7 +144,7 @@
 > :moneybag: [代码位置](https://github.com/CNFeffery/FefferyViz/tree/master/assets/09%EF%BC%9A%E8%BF%91%E6%9C%9F%E5%9F%BA%E9%87%91%E6%B6%A8%E5%B9%85%E6%8E%92%E8%A1%8C%E5%8F%AF%E8%A7%86%E5%8C%96)
 
 <p align="center">
-  <img width="500" src="https://img2020.cnblogs.com/blog/1344061/202106/1344061-20210627160232394-1219472407.png">
+  <img width="100%" src="https://img2020.cnblogs.com/blog/1344061/202106/1344061-20210627160232394-1219472407.png">
 </p>
 
 ---
